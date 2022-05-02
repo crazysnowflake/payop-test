@@ -1,0 +1,21 @@
+{
+  "name": "crazysnowflake/payop-test",
+  "type": "extension",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Crazysnowflake\\PayopTest\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Elena ZH",
+      "email": "elenkadark@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": "^8.0.2",
+    "guzzlehttp/guzzle": "^7.4"
+  }
+}
